@@ -16,7 +16,7 @@ def greet():
 def welcome(name):
     print(f"Welcome {name}!")
 
-name = "Avery"
+name = "Caiden"
 
 # Create Functions Practice #3
 # Declare a function called square, that takes any number as an argument, and each time it is called, it prints the square of that number on the screen (that is, the value to the second power).
